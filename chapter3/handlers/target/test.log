@@ -1,0 +1,9 @@
+2014-09-03 16:21:36,466 WARN  [com.itbuzzpress.chapter3.JAXWSProviderTest:16] Current JAXWS Provider: org.jboss.wsf.stack.cxf.client.ProviderImpl@1d3d0eb
+2014-09-03 16:21:39,057 INFO  [org.apache.cxf.tools.wsdlto.core.PluginLoader:180] Replaced default databinding jaxb
+2014-09-03 16:21:39,062 INFO  [org.apache.cxf.tools.wsdlto.core.PluginLoader:160] Replaced default frontend jaxws
+2014-09-03 16:21:39,062 INFO  [org.apache.cxf.tools.wsdlto.core.PluginLoader:160] Replaced default frontend jaxws21
+2014-09-03 16:21:59,299 INFO  [org.apache.cxf.tools.wsdlto.core.PluginLoader:180] Replaced default databinding jaxb
+2014-09-03 16:21:59,317 INFO  [org.apache.cxf.tools.wsdlto.core.PluginLoader:160] Replaced default frontend jaxws
+2014-09-03 16:21:59,317 INFO  [org.apache.cxf.tools.wsdlto.core.PluginLoader:160] Replaced default frontend jaxws21
+2014-09-03 16:22:02,994 WARN  [com.itbuzzpress.chapter3.JAXWSProviderTest:16] Current JAXWS Provider: org.jboss.wsf.stack.cxf.client.ProviderImpl@1d3d0eb
+2014-09-03 16:22:04,976 INFO  [org.apache.cxf.service.factory.ReflectionServiceFactoryBean:411] Creating Service {http://hello.world.ns/}HelloWorldService from WSDL: http://localhost:8080/handlers/HelloWorldService?wsdl
